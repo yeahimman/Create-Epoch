@@ -41,10 +41,10 @@ globalExecutorParallelism = "default"
 	# 
 	enforceSafeWorldRandomAccess = "default"
 
-[clientSideConfig]
-
 	[clientSideConfig.modifyMaxVDConfig]
 		# (Default: true) Whether to modify maximum view distance
+		# Set to false for the following reasons: 
+		# Incompatible with bobby@5.0.1 (*) (defined in c2me) 
 		enabled = "default"
 		# (Default: 67) Max render distance allowed in game options
 		maxViewDistance = "default"
@@ -149,4 +149,3 @@ globalExecutorParallelism = "default"
 	# (may cause incompatibility with other mods)
 	# 
 	useEndBiomeCache = "default"
-

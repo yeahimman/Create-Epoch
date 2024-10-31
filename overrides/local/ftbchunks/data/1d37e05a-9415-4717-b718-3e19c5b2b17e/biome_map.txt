@@ -1,0 +1,12 @@
+#79D terralith:cave/andesite_caves
+#4CA minecraft:dripstone_caves
+#010 minecraft:forest
+#5E2 terralith:forested_highlands
+#0E5 terralith:highlands
+#73A minecraft:old_growth_pine_taiga
+#3A3 terralith:orchid_swamp
+#3DC minecraft:plains
+#5FF minecraft:river
+#720 terralith:steppe
+#4D3 minecraft:swamp
+#597 terralith:temperate_highlands

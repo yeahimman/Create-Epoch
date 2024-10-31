@@ -1,18 +1,15 @@
-
-[embeddiumextras]
-
 	[embeddiumextras.general]
 		#Configure FPS Display mode
 		#Complete mode gives you min FPS count and average count
 		#Allowed Values: OFF, SIMPLE, ADVANCED
-		fpsDisplay = "ADVANCED"
+		fpsDisplay = "OFF"
 		#Shows GPU and memory usage onto FPS display
 		#Allowed Values: OFF, ON, GPU, RAM
 		fpsDisplaySystem = "OFF"
 		#Set Fullscreen mode
 		#Borderless let you change between screens more faster and move your mouse across monitors
 		#Allowed Values: WINDOWED, BORDERLESS, FULLSCREEN
-		fullscreen = "WINDOWED"
+		fullscreen = "FULLSCREEN"
 		#Configure FPS Display gravity
 		#Places counter on specified corner of your screen
 		#Allowed Values: LEFT, CENTER, RIGHT
@@ -33,8 +30,6 @@
 		#Depending of the case may increase performance
 		#Gives a flat style text
 		fontShadows = true
-
-		[embeddiumextras.performance.distanceCulling]
 
 			[embeddiumextras.performance.distanceCulling.entities]
 				#Configure horizontal max distance before cull entities
@@ -128,4 +123,3 @@
 			enableBlockLightOnly = false
 			#Toggle Darkness on Overworld dimension
 			enableOnOverworld = true
-

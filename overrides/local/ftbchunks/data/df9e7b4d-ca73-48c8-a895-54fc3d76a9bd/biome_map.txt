@@ -1,0 +1,17 @@
+#556 minecraft:beach
+#47F minecraft:birch_forest
+#486 terralith:birch_taiga
+#4F9 minecraft:dark_forest
+#3DE minecraft:deep_ocean
+#010 minecraft:forest
+#5E2 terralith:forested_highlands
+#0E5 terralith:highlands
+#4E2 terralith:hot_shrubland
+#498 minecraft:lush_caves
+#4F1 minecraft:ocean
+#1DF minecraft:old_growth_birch_forest
+#73A minecraft:old_growth_pine_taiga
+#5FF minecraft:river
+#3AF minecraft:sparse_jungle
+#169 minecraft:taiga
+#597 terralith:temperate_highlands

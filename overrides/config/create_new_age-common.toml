@@ -93,4 +93,3 @@ maxWireLength = 16
 	#Advanced motor extension scroll step
 	#Range: > 1
 	advancedMotorExtensionScrollStep = 8
-

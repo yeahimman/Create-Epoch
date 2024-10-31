@@ -1,0 +1,7 @@
+#5E2 terralith:forested_highlands
+#498 minecraft:lush_caves
+#5E8 terralith:moonlight_grove
+#73A minecraft:old_growth_pine_taiga
+#60C minecraft:old_growth_spruce_taiga
+#5FF minecraft:river
+#169 minecraft:taiga

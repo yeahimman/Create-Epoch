@@ -1,0 +1,6 @@
+#572 terralith:arid_highlands
+#184 terralith:brushland
+#4E2 terralith:hot_shrubland
+#4B0 minecraft:jungle
+#67B minecraft:savanna
+#254 terralith:shrubland
