@@ -23,31 +23,72 @@ mode = "fancy"
 
 			[light_sources.settings.entities.minecraft]
 				chicken = true
-				item = true
-				zombie_villager = true
+				axolotl = true
+				bee = true
+				donkey = true
 				cow = true
+				tropical_fish = true
+				fox = true
 				pig = true
-				horse = true
+				slime = true
 				skeleton = true
+				iron_golem = true
 				bat = true
+				cat = true
+				rabbit = true
 				zombie = true
+				drowned = true
+				sheep = true
+				player = true
+				dolphin = true
+				item = true
+				wolf = true
+				villager = true
+				salmon = true
+				zombie_villager = true
+				horse = true
+				cave_spider = true
 				witch = true
 				glow_squid = true
+				cod = true
 				glow_item_frame = false
 				squid = true
 				spider = true
 				creeper = true
-				sheep = true
-				player = true
 				enderman = true
 
+			[light_sources.settings.entities.tconstruct]
+				sky_slime = true
+
 			[light_sources.settings.entities.livingthings]
+				shark = true
 				mantaray = true
+				raccoon = true
+				owl = true
+				crab = true
+				seahorse = true
+
+			[light_sources.settings.entities.endermanoverhaul]
+				savanna_enderman = true
+				flower_fields_enderman = true
+				cave_enderman = true
+				dark_oak_enderman = true
 
 			[light_sources.settings.entities.creeperoverhaul]
+				bamboo_creeper = true
 				dripstone_creeper = true
+				jungle_creeper = true
 				cave_creeper = true
+				hills_creeper = true
 
 			[light_sources.settings.entities.friendsandfoes]
+				glare = true
+				mauler = true
 				rascal = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
+
+			[light_sources.settings.entities.biomeswevegone]
+				oddion = true
 
